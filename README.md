@@ -1,1 +1,3 @@
-# TypeScript-1-2
+# JavaScript Starter
+
+For Basics of Web Development course in Metropolia.
